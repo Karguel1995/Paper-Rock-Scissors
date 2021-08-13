@@ -1,4 +1,7 @@
-Live: https://karguel1995.github.io/Paper-Rock-Scissors/
-# Project 1
-Pierwszy projekt wykonany przy pomocy obiektów.
-Projekt ten pozwolił na naukę i praktykę programowania zorientowanego obiektowo.
+# Paper Rock Scissors
+- [x] This is a complete project
+
+:earth_africa: [Live](https://karguel1995.github.io/Paper-Rock-Scissors/)
+
+The first project made with objects.
+This project allowed for the learning and practice of object-oriented programming.
